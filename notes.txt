@@ -1,0 +1,38 @@
+What is Bootstrap?
+- Is a front-end framework. Used on te client side.
+- Includes bits of HTML, CSS and Javascript code.
+- Used n building responsive, mobile first web apps and websites.
+- Mobile first meaning design for smaller screens first the work up.
+
+Why use Bootstrap?
+- Increase development speed.
+- Responsiveness.
+- Consistency.
+- Customizable.
+- Support.
+
+HTML/CSS Components
+- Navbars and Dropdowns
+- Jumbotron
+- Alerts and Progress bars
+- Form and Input
+- Button and Links
+- Labels and Badges 
+- Icons
+- List Groups
+- Wells and Panels
+- Pagination
+- Thumbnails
+- Tables
+- Grid System
+- Responsive Utilities
+
+Javascript Widgets
+- Translations
+- Modals
+- Dropdowns
+- Carousel/Slider
+- Alerts
+- Popovers
+- Tooltips
+- Collapsable Elements
